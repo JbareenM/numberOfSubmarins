@@ -30,4 +30,5 @@ python Submarine.py
 ```
 the output of he program
 
-![Screen Shot 2022-03-21 at 11 34 33 PM](https://user-images.githubusercontent.com/44744884/159367632-fd4602bb-aa4e-4838-a90d-9a1b805d4c2a.png)
+![Screen Shot 2022-03-22 at 12 17 33 AM](https://user-images.githubusercontent.com/44744884/159372541-fd27e82e-f734-4191-bf53-225724e51d79.png)
+
